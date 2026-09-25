@@ -133,26 +133,52 @@ I'm a passionate **Full Stack Web Developer** who loves crafting modern, clean, 
 
 ---
 
-## Featured Project
+## Featured Projects
 
 <div align="center">
+  <a href="https://github.com/tariqulislam-404/B14-A6-Fit-Log">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=tariqulislam-404&repo=B14-A6-Fit-Log&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CDD6F4&icon_color=38BDF8" alt="FitLog pinned repo card" />
+  </a>
   <a href="https://github.com/tariqulislam-404/B14-A05-DevStack">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=tariqulislam-404&repo=B14-A05-DevStack&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CDD6F4&icon_color=38BDF8" alt="Dev Stack Builder" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=tariqulislam-404&repo=B14-A05-DevStack&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CDD6F4&icon_color=38BDF8" alt="DevStack pinned repo card" />
   </a>
 </div>
 
-### Dev Stack Builder
+### 🏋️ FitLog — Workout Library
 
-> A modern **technology stack explorer** where developers can discover and build their ideal development setup.
+> A dark-themed workout tracking web app — browse exercises, build a daily plan, and track training progress. Live: [b14-a6-fit-log-iota.vercel.app](https://b14-a6-fit-log-iota.vercel.app)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Next.js_14-000000?style=flat-square&logo=nextdotjs&logoColor=fff" alt="Next.js 14" />
+  <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=000" alt="React 18" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=fff" alt="CSS" />
+</p>
+
+**Features:** Browse 12 workouts with full detail pages · Sort by duration/calories/rating · Build a "Today's Plan" · Save favorites · Mark workouts done · API fetch with built-in fallback data · Fully persisted in localStorage
+
+<a href="https://github.com/tariqulislam-404/B14-A6-Fit-Log">
+  <img src="https://img.shields.io/badge/View%20on%20GitHub-0C1A3A?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub" />
+</a>
+&nbsp;
+<a href="https://b14-a6-fit-log-iota.vercel.app">
+  <img src="https://img.shields.io/badge/Live%20Demo-0891B2?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+</a>
+
+<br/><br/>
+
+### Dev Stack
+
+> A responsive React + Vite app for exploring modern dev technologies and building a personalized tech stack.
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff" alt="Vite" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=fff" alt="Vercel" />
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=fff" alt="CSS" />
 </p>
 
-**Features:** Browse tech stack categories · Build your own stack · Modern responsive UI
+**Features:** Technology card grid loaded from JSON · Add technologies to a personal stack with duplicate protection · Remove items individually or clear all · Toast notifications · Accessible, responsive UI
 
 <a href="https://github.com/tariqulislam-404/B14-A05-DevStack">
   <img src="https://img.shields.io/badge/View%20on%20GitHub-0C1A3A?style=for-the-badge&logo=github&logoColor=white" alt="View on GitHub" />
@@ -194,6 +220,22 @@ I'm a passionate **Full Stack Web Developer** who loves crafting modern, clean, 
 <div align="center">
   <a href="https://github.com/tariqulislam-404">
     <img src="https://img.shields.io/badge/GitHub-tariqulislam--404-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub tariqulislam-404" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/tariqul-islam1437/">
+    <img src="https://img.shields.io/badge/LinkedIn-tariqul--islam1437-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://x.com/Tariqul1437">
+    <img src="https://img.shields.io/badge/X-@Tariqul1437-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  &nbsp;
+  <a href="https://www.facebook.com/tariqulislam15/">
+    <img src="https://img.shields.io/badge/Facebook-tariqulislam15-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  &nbsp;
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Email-Tariqulislam1437@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
